@@ -1,6 +1,3 @@
-# Pomodoro-App
+# US-States Python Game 
 
-
-##Pomodoro App created using Python Tkinter 
-
-### 
+## User types state name, and the game displays it on map if it is correct. 
